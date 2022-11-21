@@ -39,7 +39,7 @@ PT = Esse projeto tem como finalidade colocar em prática JavaScript, HTML e CSS
 ## Usage
 To use this project, go to the link:
 
-[Link Project](https://issufibadji.github.io/FocusTimer/)
+[Link Project](https://issufibadji.github.io/timerFocus-0.1/)
 
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/issufibadji?size=100">
